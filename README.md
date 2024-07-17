@@ -8,7 +8,7 @@ Developed an interactive KPI report using Power BI to track key metrics and expl
 
 ## Key Features:
 
-## Data Overview:
+#### Data Overview:
 
 Connected to and profiled data from multiple CSV files (sales, products, stores, calendar).
 
@@ -16,7 +16,7 @@ Ensured data quality by reviewing table columns, checking for null values, and c
 
 Identified key metrics such as transaction count, number of stores, and product price range.
 
-## Relational Data Model:
+#### Relational Data Model:
 
 Created relationships between fact (sales) and dimension (products, stores, calendar) tables.
 
@@ -24,14 +24,14 @@ Followed a star schema with (1:*) relationships.
 
 Built a date hierarchy for enhanced time-based analysis.
 
-## Calculated Measures & Fields:
+#### Calculated Measures & Fields:
 
 Added calculated columns for ‘cost’ and ‘price’ to determine revenue and profit per transaction.
 
 Created measures for total orders, total revenue, and total profit.
 
 
-## Interactive Report:
+#### Interactive Report:
 
 KPI card visuals for the current month’s total orders (829K), total revenue ($14.44M), and total profit ($4.01M).
 
@@ -58,7 +58,7 @@ Total Profit: $4.01M
 
 Revenue peaked in December 2022 and March 2023.
 
-## Revenue by Category:
+#### Revenue by Category:
 
 Toys: 35.26%
 
@@ -87,4 +87,4 @@ Revenue by Store Location was maximum in Downtown followed by Commercial then Re
 
 
 
-ChatGPT can make mistakes. Che
+
